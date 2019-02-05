@@ -14,6 +14,6 @@ inc/
 nytprof.out
 pod2htm*.tmp
 pm_to_blib
-Locale-Country-EU-*
-Locale-Country-EU-*.tar.gz
+Dancer-Session-MemoryDistributed-*
+Dancer-Session-MemoryDistributed-*.tar.gz
 .idea/
