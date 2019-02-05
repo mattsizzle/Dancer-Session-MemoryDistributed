@@ -17,3 +17,4 @@ pm_to_blib
 Dancer-Session-MemoryDistributed-*
 Dancer-Session-MemoryDistributed-*.tar.gz
 .idea/
+README
