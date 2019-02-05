@@ -1,7 +1,6 @@
 package Dancer::Session::MemoryDistributed;
 
-# ABSTRACT: Dancer Session Engine with in-memory storage that can be backed by an additional distributed engine such as
-# Redis or CHI
+# ABSTRACT: Dancer Session Engine with in-memory storage that can be backed by an additional distributed engine such as Redis or CHI
 
 use strict;
 use warnings;

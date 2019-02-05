@@ -1,0 +1,9 @@
+This archive contains the distribution Dancer-Session-MemoryDistributed,
+version 0.1:
+
+  Dancer Session Engine with in-memory storage that can be backed by an additional distributed engine such as Redis or CHI
+
+This software is copyright (c) 2019 by Matthew Green.
+
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
